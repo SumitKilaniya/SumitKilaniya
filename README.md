@@ -1,5 +1,8 @@
+💫 Hi 👋, I'm Sumit Kilaniya
+**A Data Analyst || Data Engineer || AI Engineer**
+
 <!--  
-# 💫 Hi 👋, I'm Sumit Kilaniya
+💫 Hi 👋, I'm Sumit Kilaniya
 **A Data Analyst || Data Engineer || AI Engineer**
 
 
