@@ -35,8 +35,7 @@
 <img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/SumitKilaniya/SumitKilaniya/main/dark.svg" width="100%">
 </picture>
 </p> -->
-# 💫 About Me:
-😳i'm currently working on Google
+
 
 
 ## 🌐 Socials:
