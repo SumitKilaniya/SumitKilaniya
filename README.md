@@ -1,5 +1,6 @@
 💫 Hi 👋, I'm Sumit Kilaniya
 **A Data Analyst || Data Engineer|| Data Scientist || AI Engineer**
+<img alt="Sumitkilaniya's GitHub profile" src="dark_mode.svg" width="100%" />
 
 <!--  
 💫 Hi 👋, I'm Sumit Kilaniya
