@@ -2,9 +2,7 @@
 **A Data Analyst || Data Engineer|| Data Scientist || AI Engineer**
 <img alt="Sumitkilaniya's GitHub profile" src="dark_mode.svg" width="100%" />
 
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
-</p>
+
 
 <!--  
 💫 Hi 👋, I'm Sumit Kilaniya
@@ -58,4 +56,8 @@
 
 <p align="center">
 <img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/SumitKilaniya/SumitKilaniya/main/dist/github-jet.svg" width="100%">
+</p>
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
